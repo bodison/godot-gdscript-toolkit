@@ -14,6 +14,7 @@ This project provides a set of tools for daily work with `GDScript`. At the mome
 
 To install this project you need `python3` and `pip`.
 Regardless of the target version, installation is done by `pip3` command and for stable releases, it downloads the package from PyPI.
+For Windows, please run the install command with administrator permissions.
 
 ### Godot 4
 
